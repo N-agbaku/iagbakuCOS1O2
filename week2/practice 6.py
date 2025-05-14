@@ -7,4 +7,3 @@ cgpa = int("4")
 print(f"Grade = {grade}")
 print(f"GPA = {gpa}")
 print(f"CGPA = {cgpa}")
-
